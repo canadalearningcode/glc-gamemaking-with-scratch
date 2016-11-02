@@ -5,7 +5,7 @@ HOW TO USE:
 * Download this folder.
 * Read the Facilitator Guide for context (open in your browser).
 * Update the slides (in a text editor): 
-    * Insert the network info and bit.ly link to Scratch class
+    * Insert the network info and bit.ly link to Scratch class in the opening slide
     * Edit the facilitator info (slide 2 + final slide) with your photo and details
     * Edit the Agenda (slide 5) if selecting different activities, or to shift timing according to age groups (Ages 6-8 have one activity with a break after the code-along. ages 7-12 have a break in between their two activities.)
 * Test out the provided Scratch Teacher account.
