@@ -2,25 +2,25 @@
 
 HOW TO USE:
 ## Before the Workshop
-1 Week Prior
+1 Week to Go
 
 * Download this folder.
 * Read the Facilitator Guide for context (open in your browser).
 
-3 Days Prior
+3 Days to Go
 
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
 
-2 Days Prior
+2 Days To Go
 
 * Update the slides (in a text editor): 
     * Insert the network info and bit.ly link to Scratch class in the opening slide
     * Edit the facilitator info (slide 2 + final slide) with your photo and details
     * Edit the Agenda (slide 5) to adjust timing and/or activities (if applicable)
     
-1 Day Prior
+1 Day to Go
 
 * Print Facilitator Guide and Solution Sheets to bring to the workshop.
 
