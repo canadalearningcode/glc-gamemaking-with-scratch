@@ -32,6 +32,8 @@ HOW TO USE:
 * Give yourself a pat on the back - You did it! 
 
 
+
+
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 Content by Kassandra Lenters & Eden Beronio. Slides Created by [Christina Truong](http://twitter.com/christinatruong) for Ladies Learning Code.
