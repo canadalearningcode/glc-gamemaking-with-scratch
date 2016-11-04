@@ -17,7 +17,7 @@ HOW TO USE:
 
 * Update the slides (in a text editor): 
     * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 21)
-    * Edit the facilitator info with your photo and details (Slide 2 and 22)
+    * Edit the facilitator info with your photo and details (Slide 2 and 23)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
     
 1 Day to Go
