@@ -1,6 +1,6 @@
 #Girls Learning Code: Gamemaking with Scratch
 
-Preview Facilitator Guide: <a href="ladieslearningcode.github.io/glc-game-making-with-scratch/facilitator-guide.html">https://ladieslearningcode.github.io/glc-game-making-with-scratch/facilitator-guide.html</a>
+Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-game-making-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/glc-game-making-with-scratch/facilitator-guide.html</a>
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/glc-game-making-with-scratch/slides.html">ladieslearningcode.github.io/glc-game-making-with-scratch/slides.html</a>
 
