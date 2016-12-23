@@ -31,7 +31,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 2 Days To Go
 
-* Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
+* Update the slides (in a text editor, like <a href="https://atom.io/" target="blank">atom.io</a>):
     * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 21)
     * Edit the facilitator info with your photo and details (Slide 2 and 23)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
