@@ -60,9 +60,9 @@ Content by Kassandra Lenters & Eden Beronio. Slides Created by [Christina Truong
 
 Email questions & comments to <content@ladieslearningcode.com>.
 
-## French:
+## Version française
 
-# Girls Learning Code: Initiation à la Conception de Jeux: Programmer avec Scratch
+# Girls Learning Code : Conception de Jeux avec Scratch
 
 ## Liens vers les ressources
 
